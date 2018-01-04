@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hk2018010403</string>
+    <string-array name="cities">
+        <item>台北</item>
+        <item>台中</item>
+        <item>台南</item>
+        <item>高雄</item>
+    </string-array>
+
+</resources>
